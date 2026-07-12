@@ -1,0 +1,9 @@
+torch
+ncps
+numpy
+gradio
+scikit-learn
+matplotlib
+gymnasium
+fvcore
+avalanche-lib
