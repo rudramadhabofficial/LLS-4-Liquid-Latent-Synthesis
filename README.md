@@ -13,3 +13,6 @@
 
    This is a preliminary/pilot study — see the Limitations section of the
    paper for what is and isn't yet validated.
+
+https://orcid.org/0009-0009-9751-1264
+https://zenodo.org/records/21321189
